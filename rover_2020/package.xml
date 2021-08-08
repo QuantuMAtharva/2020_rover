@@ -1,5 +1,5 @@
 <package>
-    <name>2020_rover</name>
+    <name>rover_2020</name>
     <version>1.0.0</version>
     <description>Autonomous Navigation in Rough Terrain Environments</description>
     <maintainer email="ashwins@iitk.ac.in">Ashwin Shenai</maintainer>
